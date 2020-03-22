@@ -8,4 +8,6 @@ This project was compiled for the BSc (Honours) in Computing program, at the Nat
 R, Rstudio, Excel & MySQL
 
 # Folders
-
+/Rfiles contains all of the needed R scripts that perform the analysis.
+/Csvfiles contains all the needed data.
+/Documents contains the final technical report, presentation & poster.
