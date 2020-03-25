@@ -191,7 +191,7 @@ m3
 
 
 
-register_google(key = "AIzaSyAbwQLm6q3JtuqRm8V9FQCldP_PeatOsF8")  
+register_google(key = "")  
 #google api key
 
 # Get city Coordinates --------------------------------
@@ -311,7 +311,7 @@ p <- daft %>% plot_mapbox(x = daft$latitude, y = daft$longitude,
                                      lon =-6.257807)))
 p
 
-Sys.setenv('MAPBOX_TOKEN' = 'pk.eyJ1Ijoibmlsb2siLCJhIjoiY2p1enJxYTBuMDd3YzN6cWxzeGpzdHVqMiJ9.pW9yCN4OK49bwUZXK9Ku5Q')
+Sys.setenv('MAPBOX_TOKEN' = '')
 
 library(plotly)
 
